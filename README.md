@@ -3,10 +3,10 @@ We will analyze Cardiovascular Disease dataset to find which variables are relat
 
 
 
-Selected topic
+## Selected topic
 	Cardiovascular Desease Prediction
 
-Reason to have selected the topic
+## Reason to have selected the topic
 	
 	Accordng to the World Health Organization, cardiovascular diseases (CVDs) are the
 leading cause of death globally. An estimated 17.9 million people died from CVDs in 2019,
@@ -23,27 +23,31 @@ with counselling and medicines can begin. With the analysis that we´ll be perfo
 determine which variables are related to the CVD's and usisg different machine learning models
 predict whether the patient has cardiovascular disease risk.
 
-Description of the source data
+## Description of the source data
 The dataset contains the following information about patients doing cardiovascular disease
 examination.
-Age
-Height
-Weight
-Gender
-Systolic blood pressure
-Diastolic blood pressure
-Cholesterol
-Glucose
-Smoking
-Alcohol intake
-Physical activity
-Presence or absence of cardiovascular disease
+Entry  / Unit
+Age    /  Years
+Height / cms
+Weight / Kgs
+Gender / 1 : Female,  2 : Male
+Systolic blood pressure  / ap_hi
+Diastolic blood pressure / ap_lo
+Cholesterol / 1: normal, 2: above normal, 3: well above normal
+Glucose  / 1: normal, 2: above normal, 3: well above normal |
+Smoking  / 0: No 1: Yes
+Alcohol intake / 0: No 1: Yes
+Physical activity / 0: No 1: Yes
+Presence or absence of cardiovascular disease / 0: No 1: Yes
 
-Questions to hope response with the data analyst
+![Alt Text](https://github.com/CarlosRello/Cardiovascular_Disease/blob/main/Resources/db.png)
 
-Age range to be most vulnerable to have CVD's
-Weight range is most probably to have CVD's
-What are the probabilities that a person present CVD's according to his physical activities
-What are the probabilities that a person present CVD's according to his alcohol intake
-What are the probabilities that a person present CVD's according to his smoking habits
-What are the probabilities that a person present CVD's according to his cholesterol chart data
+## Questions to hope response with the data analyst
+
+- Age range to be most vulnerable to have CVD's
+- Weight range is most probably to have CVD's
+- What are the probabilities that a person present CVD's according to his physical activities
+- What are the probabilities that a person present CVD's according to his alcohol intake
+- What are the probabilities that a person present CVD's according to his smoking habits
+- What are the probabilities that a person present CVD's according to his cholesterol chart data
+
