@@ -46,7 +46,7 @@ Entry  / Unit.
 
 ![Alt Text](https://github.com/CarlosRello/Cardiovascular_Disease/blob/main/Resources/db.png)
 
-## Questions to hope response with the data analyst
+## Questions to hope response with the data analysis
 
 - Age range to be most vulnerable to have CVD's
 - Weight range is most probably to have CVD's
