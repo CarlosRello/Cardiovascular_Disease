@@ -46,6 +46,10 @@ Entry  / Unit.
 
 ![Alt Text](https://github.com/CarlosRello/Cardiovascular_Disease/blob/main/Resources/db.png)
 
+##  Description of the communication Protocols
+    At this stage we are considering presenting the analysis using Tableau,
+    nesting the Database using SQL and access through Amazon Web Services 
+
 ## Questions to hope response with the data analysis
 
 - Age range to be most vulnerable to have CVD's
