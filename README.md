@@ -46,6 +46,11 @@ Entry  / Unit.
 
 ![Alt Text](https://github.com/CarlosRello/Cardiovascular_Disease/blob/main/Resources/db.png)
 
+## Graphic Reference of Results
+
+For interactive information abot the results please refer the following link
+Public Tableau link: [link to dashboard](https://public.tableau.com/app/profile/carlos.rello/viz/Cardiovascular_presentation/CardiovascularResults?publish=yes)
+
 ##  Description of the communication Protocols
     At this stage we are considering presenting the analysis using Tableau,
     nesting the Database using SQL and access through Amazon Web Services 
