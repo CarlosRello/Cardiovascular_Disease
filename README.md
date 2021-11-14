@@ -78,3 +78,17 @@ From the analysis that have been carried out, the results are presented below. W
    - Blood Pressure per Class
 ```
 ### Patiens Age
+
+### Patients Age
+
+### Body Mass Index
+
+### Cholesterol
+
+### Systolic Blood Pressure
+
+### BMI Per Class
+
+### Cholesterol Level per Class
+
+### Blood Pressure per Class
