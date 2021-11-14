@@ -124,5 +124,9 @@ From this plot, it can be stood out that groups rated as 0 are susceptible to ca
 ### ```- Cholesterol Level per Class```
 ![Cardiovascular Results - Cholesterol Level per Class](https://user-images.githubusercontent.com/86028032/141694776-1a29e04d-1bd6-40b1-8f34-7b85ae10b104.PNG)
 
+This plot shows two pie charts, gathered in groups where susceptible and no susceptible persons to cardiovascular diseases are shown based on the cholesterol level that present.
+
+From the plot that shows the susceptible group, it can be analyze that 22.48% has normal cholesterol levels. 9.91% of the group presents "well above normal" cholesterol level, and 8.23% have "above normal" cholesterol. level.
+
 ### ```- Blood Pressure per Class```
 ![Cardiovascular Results - Blood Pressure per Class](https://user-images.githubusercontent.com/86028032/141694784-fbd51c6b-9a73-4225-ae64-7472351012dc.PNG)
