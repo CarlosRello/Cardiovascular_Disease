@@ -81,12 +81,17 @@ From the analysis that have been carried out, the results are presented below. W
 
 ![Cardiovascular Results - Patients Age](https://user-images.githubusercontent.com/86028032/141694720-de627143-04b9-4412-b08d-8e9b1e09e919.PNG)
 
+It can be observed in the above graph, that person within range from 48 through 60, are more susceptible to present cardiovascular diseases. So it can be determine, if only age is analyze as variable, that adult persons are in risk to suffer from cardiovascular diseases.
 
 ### ```- Body Mass Index```
 
 ![Cardiovascular Results - Body Mass Index](https://user-images.githubusercontent.com/86028032/141694736-9e42c081-db20-4b6f-9448-bbe68d53669e.PNG)
 
-It can be observed in the above graph, that person within range from 48 through 60, are more susceptible to present cardiovascular diseases. So it can be determine, if only age is analyze as variable, that adult persons are in risk to suffer from cardiovascular diseases.
+Analyzing the body mass index, it can be reviewed that from:
+- 128 of the sample were rated as "UNDERWEIGHT" BMI, in which just 0.20% were susceptible to cardiovascular diseases
+- 23,424 of the sample were rated as "NORMAL" BMI, in which 37.31% were susceptible to cardiovascular diseases
+- 18,960 of the sample were rated as "OBESE" BMI, in which 30.20% were susceptible to cardiovascular diseases
+- 20,272 of the sample were rated as "OVERWEIGHT" BMI, in which 32.29% were susceptible to cardiovascular diseases 
 
 ### ```- Cholesterol```
 
@@ -97,7 +102,7 @@ It can be observed in the above graph, that person within range from 48 through 
 
 ![Cardiovascular Results - Systolic Blood Pressure](https://user-images.githubusercontent.com/86028032/141694755-f0a2ae1b-799b-4813-ac47-c44fae788ee2.PNG)
 
-### ```- BMI Per Class```
+## ```- BMI Per Class```
 
 ![Cardiovascular Results - BMI Per Class](https://user-images.githubusercontent.com/86028032/141694768-130faa48-d69f-4ba7-ac6c-2fcddfe4c777.PNG)
 
