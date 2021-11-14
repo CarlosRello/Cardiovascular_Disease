@@ -141,3 +141,6 @@ we can conclude for elevated systolic pressure level, it remains the same for bo
 
 Finally, it can be observed that the group with normal systolic pressure, are not susceptible to cardiovascular diseases.
 
+Link to google slides:
+https://docs.google.com/presentation/d/1iSlZ3G3WZdV4lAm5UEqBhaiinr_rGQMkLoSg00fqNwk/edit?usp=sharing
+
