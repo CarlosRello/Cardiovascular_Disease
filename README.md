@@ -87,15 +87,21 @@ It can be observed in the above graph, that person within range from 48 through 
 
 ![Cardiovascular Results - Body Mass Index](https://user-images.githubusercontent.com/86028032/141694736-9e42c081-db20-4b6f-9448-bbe68d53669e.PNG)
 
-Analyzing the body mass index, it can be reviewed that from:
-- 128 of the sample were rated as "UNDERWEIGHT" BMI, in which just 0.20% were susceptible to cardiovascular diseases
-- 23,424 of the sample were rated as "NORMAL" BMI, in which 37.31% were susceptible to cardiovascular diseases
-- 18,960 of the sample were rated as "OBESE" BMI, in which 30.20% were susceptible to cardiovascular diseases
-- 20,272 of the sample were rated as "OVERWEIGHT" BMI, in which 32.29% were susceptible to cardiovascular diseases 
+Analyzing the body mass index in which the population were susceptible to cardiovascular disease, it was found that from the sample of 62,784:
+- 0.20% were rated as "UNDERWEIGHT" BMI
+- 37.31% were rated as "NORMAL" BMI
+- 30.20% were rated as "OBESE" BMI
+- 32.29% were rated as "OVERWEIGHT" BMI 
 
 ### ```- Cholesterol```
 
 ![Cardiovascular Results - Cholesterol](https://user-images.githubusercontent.com/86028032/141694747-fdaa3a6e-a7f2-4263-ab9c-55c47e1ace9d.PNG)
+
+From the sample, we've gotten that the persons that were susceptible to cardiovascular diseases showed the following chlesterol level:
+
+- 75.50% had their chlesterol level normal
+- 13.29% had their cholesterol level above normal
+- 11.21% had their cholesterol well above normal
 
 
 ### ```- Systolic Blood Pressure```
