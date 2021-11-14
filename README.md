@@ -77,32 +77,32 @@ From the analysis that have been carried out, the results are presented below. W
    - Cholesterol Level per Class
    - Blood Pressure per Class
 ```
-### ```Patiens Age```
+### ```- Patiens Age```
 
 ![Cardiovascular Results - Patients Age](https://user-images.githubusercontent.com/86028032/141694720-de627143-04b9-4412-b08d-8e9b1e09e919.PNG)
 
 
-### ```Body Mass Index```
+### ```- Body Mass Index```
 
 ![Cardiovascular Results - Body Mass Index](https://user-images.githubusercontent.com/86028032/141694736-9e42c081-db20-4b6f-9448-bbe68d53669e.PNG)
 
 
-### ```Cholesterol```
+### ```- Cholesterol```
 
 ![Cardiovascular Results - Cholesterol](https://user-images.githubusercontent.com/86028032/141694747-fdaa3a6e-a7f2-4263-ab9c-55c47e1ace9d.PNG)
 
 
-### ```Systolic Blood Pressure```
+### ```- Systolic Blood Pressure```
 
 ![Cardiovascular Results - Systolic Blood Pressure](https://user-images.githubusercontent.com/86028032/141694755-f0a2ae1b-799b-4813-ac47-c44fae788ee2.PNG)
 
-### ```BMI Per Class```
+### ```- BMI Per Class```
 
 ![Cardiovascular Results - BMI Per Class](https://user-images.githubusercontent.com/86028032/141694768-130faa48-d69f-4ba7-ac6c-2fcddfe4c777.PNG)
 
 
-### ```Cholesterol Level per Class```
+### ```- Cholesterol Level per Class```
 ![Cardiovascular Results - Cholesterol Level per Class](https://user-images.githubusercontent.com/86028032/141694776-1a29e04d-1bd6-40b1-8f34-7b85ae10b104.PNG)
 
-### ```Blood Pressure per Class```
+### ```- Blood Pressure per Class```
 ![Cardiovascular Results - Blood Pressure per Class](https://user-images.githubusercontent.com/86028032/141694784-fbd51c6b-9a73-4225-ae64-7472351012dc.PNG)
