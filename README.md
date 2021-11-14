@@ -126,7 +126,18 @@ From this plot, it can be stood out that groups rated as 0 are susceptible to ca
 
 This plot shows two pie charts, gathered in groups where susceptible and no susceptible persons to cardiovascular diseases are shown based on the cholesterol level that present.
 
-From the plot that shows the susceptible group, it can be analyze that 22.48% has normal cholesterol levels. 9.91% of the group presents "well above normal" cholesterol level, and 8.23% have "above normal" cholesterol. level.
+From the plot that shows the susceptible group (0), it can be analyze that 22.48% has normal cholesterol levels. 9.91% of the group presents "well above normal" cholesterol level, and 8.23% have "above normal" cholesterol. level.
+
+The graph showing unsusceptible group (1), it's observed that 53.01% have normal cholesterol levels, 1.30% of the group presents "well above normal" cholesterol level, and 5.06% have "above normal" cholesterol level.
 
 ### ```- Blood Pressure per Class```
 ![Cardiovascular Results - Blood Pressure per Class](https://user-images.githubusercontent.com/86028032/141694784-fbd51c6b-9a73-4225-ae64-7472351012dc.PNG)
+
+Same as the cholesterol level per class analysis, here the charts have been divided into two groups, 0 as susceptible to present cardiovascular diseases and 1 as unsusceptible. The difference encountered in this chart, is that here it can be appreciated the behaviour between both groups.
+
+First, reviewing the chat we can observe that hypertensive crisis, hypertension level 2, and hypertension level 1 persons, are more susceptible to cardiovascular diseases. 
+
+we can conclude for elevated systolic pressure level, it remains the same for both group, its no such difference to be or not susceptible to cardiovasular diseases since we have almost the same sample for both groups.
+
+Finally, it can be observed that the group with normal systolic pressure, are not susceptible to cardiovascular diseases.
+
