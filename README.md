@@ -86,6 +86,7 @@ From the analysis that have been carried out, the results are presented below. W
 
 ![Cardiovascular Results - Body Mass Index](https://user-images.githubusercontent.com/86028032/141694736-9e42c081-db20-4b6f-9448-bbe68d53669e.PNG)
 
+It can be observed in the above graph, that person within range from 48 through 60, are more susceptible to present cardiovascular diseases. So it can be determine, if only age is analyze as variable, that adult persons are in risk to suffer from cardiovascular diseases.
 
 ### ```- Cholesterol```
 
