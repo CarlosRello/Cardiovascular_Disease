@@ -87,31 +87,39 @@ It can be observed in the above graph, that person within range from 48 through 
 
 ![Cardiovascular Results - Body Mass Index](https://user-images.githubusercontent.com/86028032/141694736-9e42c081-db20-4b6f-9448-bbe68d53669e.PNG)
 
-Analyzing the body mass index in which the population were susceptible to cardiovascular disease, it was found that from the sample of 62,784:
-- 0.20% were rated as "UNDERWEIGHT" BMI
-- 37.31% were rated as "NORMAL" BMI
-- 30.20% were rated as "OBESE" BMI
-- 32.29% were rated as "OVERWEIGHT" BMI 
+Analyzing the data, from the sample of 62,784 body mass index (BMI) was rated as shown below:
+
+- 0.20% are "UNDERWEIGHT" BMI
+- 37.31% are "NORMAL" BMI
+- 30.20% are "OBESE" BMI
+- 32.29% are "OVERWEIGHT" BMI 
 
 ### ```- Cholesterol```
 
 ![Cardiovascular Results - Cholesterol](https://user-images.githubusercontent.com/86028032/141694747-fdaa3a6e-a7f2-4263-ab9c-55c47e1ace9d.PNG)
 
-From the sample, we've gotten that the persons that were susceptible to cardiovascular diseases showed the following chlesterol level:
+From the sample, we've gotten the cholesterol level that is presented for the analysis:
 
-- 75.50% had their chlesterol level normal
-- 13.29% had their cholesterol level above normal
-- 11.21% had their cholesterol well above normal
+- 75.50% as chlesterol level: normal
+- 13.29% as cholesterol level: above normal
+- 11.21% as cholesterol: well above normal
 
 
 ### ```- Systolic Blood Pressure```
 
 ![Cardiovascular Results - Systolic Blood Pressure](https://user-images.githubusercontent.com/86028032/141694755-f0a2ae1b-799b-4813-ac47-c44fae788ee2.PNG)
 
+- 59.54% show systolic pressure normal
+- 1.17% show hypertensive crisis
+- 25.17% show hypertension level 2
+- 13.27 show hypertension level 1
+- 0.85%  show elevated systolic pressure
+
 ## ```- BMI Per Class```
 
 ![Cardiovascular Results - BMI Per Class](https://user-images.githubusercontent.com/86028032/141694768-130faa48-d69f-4ba7-ac6c-2fcddfe4c777.PNG)
 
+From this plot, it can be stood out that groups rated as 0 are susceptible to cardiovascular diseases and 1 are not.
 
 ### ```- Cholesterol Level per Class```
 ![Cardiovascular Results - Cholesterol Level per Class](https://user-images.githubusercontent.com/86028032/141694776-1a29e04d-1bd6-40b1-8f34-7b85ae10b104.PNG)
