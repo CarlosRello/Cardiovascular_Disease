@@ -63,3 +63,85 @@ Public Tableau link: [link to dashboard](https://public.tableau.com/app/profile/
 - What are the probabilities that a person present CVD's according to his alcohol intake
 - What are the probabilities that a person present CVD's according to his smoking habits
 - What are the probabilities that a person present CVD's according to his cholesterol chart data
+
+### Analysis Results
+
+From the analysis that have been carried out, the results are presented below. We can review in which situation the persons are susceptible to cardiovascular diseases.
+
+```
+   - Patients Age
+   - Body Mass Index
+   - Cholesterol
+   - Systolic Blood Pressure
+   - BMI Per Class
+   - Cholesterol Level per Class
+   - Blood Pressure per Class
+```
+### ```- Patiens Age```
+
+![Cardiovascular Results - Patients Age](https://user-images.githubusercontent.com/86028032/141694720-de627143-04b9-4412-b08d-8e9b1e09e919.PNG)
+
+It can be observed in the above graph, that person within range from 48 through 60, are more susceptible to present cardiovascular diseases. So it can be determine, if only age is analyze as variable, that adult persons are in risk to suffer from cardiovascular diseases.
+
+### ```- Body Mass Index```
+
+![Cardiovascular Results - Body Mass Index](https://user-images.githubusercontent.com/86028032/141694736-9e42c081-db20-4b6f-9448-bbe68d53669e.PNG)
+
+Analyzing the data, from the sample of 62,784 body mass index (BMI) was rated as shown below:
+
+- 0.20% are "UNDERWEIGHT" BMI
+- 37.31% are "NORMAL" BMI
+- 30.20% are "OBESE" BMI
+- 32.29% are "OVERWEIGHT" BMI 
+
+### ```- Cholesterol```
+
+![Cardiovascular Results - Cholesterol](https://user-images.githubusercontent.com/86028032/141694747-fdaa3a6e-a7f2-4263-ab9c-55c47e1ace9d.PNG)
+
+From the sample, we've gotten the cholesterol level that is presented for the analysis:
+
+- 75.50% as chlesterol level: normal
+- 13.29% as cholesterol level: above normal
+- 11.21% as cholesterol: well above normal
+
+
+### ```- Systolic Blood Pressure```
+
+![Cardiovascular Results - Systolic Blood Pressure](https://user-images.githubusercontent.com/86028032/141694755-f0a2ae1b-799b-4813-ac47-c44fae788ee2.PNG)
+
+- 59.54% show systolic pressure normal
+- 1.17% show hypertensive crisis
+- 25.17% show hypertension level 2
+- 13.27 show hypertension level 1
+- 0.85%  show elevated systolic pressure
+
+## ```- BMI Per Class```
+
+![Cardiovascular Results - BMI Per Class](https://user-images.githubusercontent.com/86028032/141694768-130faa48-d69f-4ba7-ac6c-2fcddfe4c777.PNG)
+
+From this plot, it can be stood out that groups rated as 0 are susceptible to cardiovascular diseases and 1 are not.
+
+### ```- Cholesterol Level per Class```
+![Cardiovascular Results - Cholesterol Level per Class](https://user-images.githubusercontent.com/86028032/141694776-1a29e04d-1bd6-40b1-8f34-7b85ae10b104.PNG)
+
+This plot shows two pie charts, gathered in groups where susceptible and no susceptible persons to cardiovascular diseases are shown based on the cholesterol level that present.
+
+From the plot that shows the susceptible group (0), it can be analyze that 22.48% has normal cholesterol levels. 9.91% of the group presents "well above normal" cholesterol level, and 8.23% have "above normal" cholesterol. level.
+
+The graph showing unsusceptible group (1), it's observed that 53.01% have normal cholesterol levels, 1.30% of the group presents "well above normal" cholesterol level, and 5.06% have "above normal" cholesterol level.
+
+### ```- Blood Pressure per Class```
+![Cardiovascular Results - Blood Pressure per Class](https://user-images.githubusercontent.com/86028032/141694784-fbd51c6b-9a73-4225-ae64-7472351012dc.PNG)
+
+Same as the cholesterol level per class analysis, here the charts have been divided into two groups, 0 as susceptible to present cardiovascular diseases and 1 as unsusceptible. The difference encountered in this chart, is that here it can be appreciated the behaviour between both groups.
+
+First, reviewing the chat we can observe that hypertensive crisis, hypertension level 2, and hypertension level 1 persons, are more susceptible to cardiovascular diseases. 
+
+we can conclude for elevated systolic pressure level, it remains the same for both group, its no such difference to be or not susceptible to cardiovasular diseases since we have almost the same sample for both groups.
+
+Finally, it can be observed that the group with normal systolic pressure, are not susceptible to cardiovascular diseases.
+
+Link to google slides:
+https://docs.google.com/presentation/d/1iSlZ3G3WZdV4lAm5UEqBhaiinr_rGQMkLoSg00fqNwk/edit?usp=sharing
+
+=======
