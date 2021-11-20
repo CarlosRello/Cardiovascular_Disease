@@ -144,4 +144,7 @@ Finally, it can be observed that the group with normal systolic pressure, are no
 Link to google slides:
 https://docs.google.com/presentation/d/1iSlZ3G3WZdV4lAm5UEqBhaiinr_rGQMkLoSg00fqNwk/edit?usp=sharing
 
+Lint to amazon web services fro the database
+https://mrch-final-project.s3.us-east-2.amazonaws.com/cardio_class.csv
+
 =======
