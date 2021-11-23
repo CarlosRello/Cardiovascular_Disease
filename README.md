@@ -55,14 +55,19 @@ Public Tableau link: [link to dashboard](https://public.tableau.com/app/profile/
     At this stage we are considering presenting the analysis using Tableau,
     nesting the Database using SQL and access through Amazon Web Services 
 
-## Questions to hope response with the data analysis
+## Questions to hope response with the data analysis?
 
-- Age range to be most vulnerable to have CVD's
-- Weight range is most probably to have CVD's
 - What are the probabilities that a person present CVD's according to his physical activities
 - What are the probabilities that a person present CVD's according to his alcohol intake
 - What are the probabilities that a person present CVD's according to his smoking habits
 - What are the probabilities that a person present CVD's according to his cholesterol chart data
+
+## According to the analysis that have been carried out, it can be gleaned that the variables that have the most impact in cardiovascular disease sorted from high importance to low are:
+
+- Systolic Blood Pressure
+- Body Mass Index (BMI)
+- Cholesterol
+- Cardio  
 
 ### Analysis Results
 
