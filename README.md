@@ -62,7 +62,7 @@ Public Tableau link: [link to dashboard](https://public.tableau.com/app/profile/
 - What are the probabilities that a person present CVD's according to his smoking habits
 - What are the probabilities that a person present CVD's according to his cholesterol chart data
 
-## According to the analysis that have been carried out, it can be gleaned that the variables that have the most impact in cardiovascular disease sorted from high importance to low are:
+## According to the analysis that has been carried out, it can be gleaned that the variables that have the most impact in cardiovascular disease sorted from high importance to low are:
 
 - Systolic Blood Pressure
 - Body Mass Index (BMI)
